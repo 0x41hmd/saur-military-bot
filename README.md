@@ -1,6 +1,6 @@
 # Military Bot
 
-## notes
+## Note
 
 If you are a avg SAUR player, you probably retarded so don't read that shit and don't message my discord 'how to setup this' or I'll block you
 
