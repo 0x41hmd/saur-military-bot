@@ -18,7 +18,7 @@ Okay so, this is a basic Discord bot for a SAUR squad. does member stuff, points
 ### setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/0x41hmd/saur-military-bot/
 cd military-bot-main
 python -m venv .venv
 ```
