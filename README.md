@@ -52,7 +52,7 @@ TIDB_PORT=4000
 TIDB_USER=your_database_user
 TIDB_PASSWORD=your_database_password
 TIDB_DATABASE=your_database_name
-TIDB_SSL_CA=ca.pem
+TIDB_SSL_CA=ce.pem
 ```
 
 bot reads this when it starts. if token/db stuff missing, it aint gonna boot right.
